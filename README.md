@@ -14,7 +14,7 @@ Below you can find instructions for both downloading and solving the task
 ### Solving the Task
 1. Create a branch with your name followin the "kebab-case" naming convention, (e.g) `abdalazeez-shahateet`
 2. On your local device, switch to your branch using the commmand `git checkout your-branch-name`
-3. Do your changes
+3. Do your changes, go to `data/index.js` and add a new record (object) for you in the `profiles` array
 4. Add your changes to staging using the command `git add .`
 5. Commint your changes using the command `git commit -m 'your commit message'`
 6. Push your changes using the command `git push`
