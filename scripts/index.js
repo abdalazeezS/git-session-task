@@ -10,7 +10,7 @@ profiles
 
         const card = `
         <div class="flex flex-col place-items-center w-[250px] gap-2 bg-white card shadow-xl p-4 rounded">
-            <img class="w-4/5" src="/assets/images/${imgSrc}" />
+            <img class="w-4/5" src="./assets/images/${imgSrc}" />
             <h3 class="text-center">${name}</h3>
             <p class="m-0 text-[#00000099]">${jobTitle}</p>
             <div class="flex gap-2">
