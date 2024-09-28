@@ -13,7 +13,7 @@ Below you can find instructions for both downloading and solving the task
    ```
 4. Open the folder in vs code and start coding
    
-### Solving the Task
+### Solving the Task - Gender in lowercase (male/female) - put the correct usernames for GitHub and LinkedIn
 1. Create a branch with your name followin the "kebab-case" naming convention, (e.g) `abdalazeez-shahateet`
 2. On your local device, switch to your branch using the commmand `git checkout your-branch-name`
 3. Do your changes, go to `data/index.js` and add a new record (object) for you in the `profiles` array
