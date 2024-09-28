@@ -28,6 +28,7 @@ export const profiles = [
         linkedInUserName: "bara-hawamdeh",
         gitHubUserName: "barahaw"
     },
+    
     {
         name: "Arwa Hajahjah",
         jobTitle: "Computer Science student",
