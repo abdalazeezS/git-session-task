@@ -17,8 +17,8 @@ export const profiles = [
         name: "Mohammad Hmedat",
         jobTitle: "Mobile  App Developer",
 
-        gender: "Male",
-        linkedInUserName: "mohammad-hmedat",
+        gender: "male",
+        linkedInUserName: "https://www.linkedin.com/in/mohammad-hmedat-551a52257/",
         gitHubUserName: "MohammadHumedat"
     }
 
