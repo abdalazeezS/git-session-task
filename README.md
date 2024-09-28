@@ -8,7 +8,9 @@ Below you can find instructions for both downloading and solving the task
 1. Hit the green button 'Code'
 2. Copy the repo URL, it MUST be `https://github.com/abdalazeezS/git-session-task.git`
 3. On your local device, go to your working folder, open the terminal and paste the command <br />
-`git clone https://github.com/abdalazeezS/git-session-task.git`
+   ```shell
+   git clone https://github.com/abdalazeezS/git-session-task.git
+   ```
 4. Open the folder in vs code and start coding
    
 ### Solving the Task
