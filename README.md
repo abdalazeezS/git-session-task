@@ -18,6 +18,7 @@ Below you can find instructions for both downloading and solving the task
 4. Add your changes to staging using the command `git add .`
 5. Commint your changes using the command `git commit -m 'your commit message'`
 6. Push your changes using the command `git push`
+7. Go to the GitHub repo -> Pull Requests -> Create a new pull request (from `your-branch` -> `Main`) and add me as a reviewer
 
 ## NOTE 👀
 If you got stuck in anything, feel free to ask me, BUT ....
