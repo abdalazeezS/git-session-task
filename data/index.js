@@ -4,20 +4,19 @@ export const profiles = [
         jobTitle: "Frontend Developer",
         gender: "male",
         linkedInUserName: "abdalazeez-shahateet",
-        gitHubUserName: "abdalazeezS"
+        gitHubUserName: "abdalazeezS",
     },
     {
         name: "Majd Tamimi",
         jobTitle: "Frontend Developer",
         gender: "female",
         linkedInUserName: "Majd Tamimi",
-        gitHubUserName: "MajdTamimi"
+        gitHubUserName: "MajdTamimi",
     },
     
     {
         name: "Mohammad Hmedat",
         jobTitle: "Mobile  App Developer",
-
         gender: "Male",
         linkedInUserName: "mohammad-hmedat",
         gitHubUserName: "MohammadHumedat"
@@ -29,5 +28,25 @@ export const profiles = [
         linkedInUserName: "islam-khalil-ibrahim",
         gitHubUserName: "islam-khalil-ibrahim"
     },
-
-]
+    {
+        name: "Baraa Hawamdeh",
+        jobTitle: "Frontend Developer",
+        gender: "male",
+        linkedInUserName: "bara-hawamdeh",
+        gitHubUserName: "barahaw"
+    },
+    {
+        name: "Arwa Hajahjah",
+        jobTitle: "Computer Science student",
+        gender: "female",
+        linkedInUserName: "arwaalhajahjah",
+        gitHubUserName: "arwahajahjah"
+    },
+    {
+        name: "Shimaa Habes",
+        jobTitle: "Computer Science Student ",
+        gender: "female",
+        linkedInUserName: "shimaa-habes",
+        gitHubUserName: "SHIMAAMAHMOUD18",
+    }
+];
