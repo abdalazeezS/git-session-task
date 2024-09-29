@@ -12,7 +12,7 @@ profiles
         <div class="flex flex-col place-items-center w-[250px] gap-2 bg-white card shadow-xl p-4 rounded">
             <img class="w-4/5" src="./assets/images/${imgSrc}" />
             <h3 class="text-center">${name}</h3>
-            <p class="m-0 text-[#00000099]">${jobTitle}</p>
+            <p class="text-center" class="m-0 text-[#00000099]">${jobTitle}</p>
             <div class="flex gap-2">
                 <a href="https://www.linkedin.com/in/${linkedInUserName}" target="_blank">
                     <img class="hover:scale-110 cursor-pointer transition-all w-[50px]" src="./assets/icons/linkedin.png" />
