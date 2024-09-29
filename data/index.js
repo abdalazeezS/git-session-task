@@ -36,12 +36,11 @@ export const profiles = [
         linkedInUserName: "arwaalhajahjah",
         gitHubUserName: "arwahajahjah"
     },
-
     {
         name: "Shimaa Habes",
         jobTitle: "Computer Science Student ",
         gender: "female",
-        linkedInUserName: "Shimaa Mahmoud Habes",
+        linkedInUserName: "shimaa-habes",
         gitHubUserName: "SHIMAAMAHMOUD18",
     },
 ];
