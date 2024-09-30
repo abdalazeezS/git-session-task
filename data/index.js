@@ -63,6 +63,13 @@ export const profiles = [
         gitHubUserName: "lamees2002",
     },
     {
+        name: "Lamees Khlawi",
+        jobTitle: "Computer Engineering Student",
+        gender: "female",
+        linkedInUserName: "lamees-khlawi",
+        gitHubUserName: "lamees44"
+    },
+    {
         name: "Heyam Dana",
         jobTitle: "Computer Science Student ",
         gender: "female",
