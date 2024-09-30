@@ -66,7 +66,7 @@ export const profiles = [
         name: "Lamees Khlawi",
         jobTitle: "Computer Engineering Student",
         gender: "female",
-        linkedInUserName: "Lamees Khlawi",
+        linkedInUserName: "lamees-khlawi",
         gitHubUserName: "lamees44",
     }
     
