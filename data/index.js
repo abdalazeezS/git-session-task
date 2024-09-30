@@ -59,8 +59,8 @@ export const profiles = [
         name: "Lamees Al-Mahareeq",
         jobTitle: "Frontend Developer",
         gender: "female",
-        linkedInUserName: "Lamees Al-Mahareeq",
-        gitHubUserName: "Lamees Al-Mahareeq",
+        linkedInUserName: "lamees-al-mahareeq-82b5a2288",
+        gitHubUserName: "lamees2002",
     }
     
 ];
