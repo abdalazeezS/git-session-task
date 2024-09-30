@@ -13,7 +13,6 @@ export const profiles = [
         linkedInUserName: "Majd Tamimi",
         gitHubUserName: "MajdTamimi",
     },
-    
     {
         name: "Mohammad Hmedat",
         jobTitle: "Mobile  App Developer",
