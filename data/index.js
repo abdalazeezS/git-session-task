@@ -61,6 +61,12 @@ export const profiles = [
         gender: "female",
         linkedInUserName: "lamees-al-mahareeq-82b5a2288",
         gitHubUserName: "lamees2002",
+    },
+    {
+        name: "Heyam Dana",
+        jobTitle: "Computer Science Student ",
+        gender: "female",
+        linkedInUserName: "heyam-dana",
+        gitHubUserName: "DaanaHA",
     }
-    
 ];
