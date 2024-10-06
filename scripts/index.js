@@ -4,7 +4,7 @@ const container = document.getElementById('cards-container');
 
 profiles
     .sort((a, b) => a.name.localeCompare(b.name))
-    .forEach((profile) => {
+    .forEach(profile => {
         const { gender, name, jobTitle, linkedInUserName, gitHubUserName } = profile;
         const imgSrc = gender == "male" ? "man.png" : "woman.png";
 
